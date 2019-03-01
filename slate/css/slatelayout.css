@@ -1,0 +1,220 @@
+*{
+  box-sizing: border-box;
+}
+.webpage{
+  height: 700px;
+  width: 100%;
+  clear: both;
+}
+.newssection{
+  height: 700px;
+  width: 70%;
+  float: left;
+}
+.smallHands{
+  background-image: url(../img/trumpback.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
+  float: left;
+}
+.trippleTap{
+  height: 300px;
+  width: 33.3333%;
+  float: left;
+}
+.trumpPress{
+  font-size: 27px;
+  width: auto;
+  color: white;
+}
+.allMoney a{
+  text-decoration: none;
+  font-size: 20px;
+  width: auto;
+  color: yellow;
+}
+.jamelle{
+  font-size: 15px;
+  width: auto;
+  color: white;
+}
+.trumpTransition{
+  list-style: none;
+  font-size: 12px;
+  width: auto;
+  color: white;
+}
+.theTransition{
+  list-style: none;
+  font-size: 15.9999px;
+  width: auto;
+  color: white;
+}
+.roads{
+  height: 300px;
+  width: 25%;
+  border: 2px solid black;
+  float: left;
+}
+.image{
+  height: 120px;
+  width: 100%;
+  display: block;
+  float: left;
+}
+.imageSize{
+  height: 116px;
+  width: 100%;
+  float: left;
+}
+.fixingRoads{
+  text-decoration: none;
+  height: 15px;
+  width: auto;
+  color: black;
+}
+.blank{
+  height: 300px;
+  width: 25%;
+  float: left;
+}
+.textOnly{
+  height: 150px;
+  width: 50%;
+  border: 2px solid black;
+  float: left;
+}
+.writersThink{
+  text-decoration: none;
+  height: 15px;
+  width: auto;
+  color: black
+}
+.textRed{
+  height: 150px;
+  width: 50%;
+  float: left;
+  background-color: #6a0432;
+}
+.makeRed{
+  text-decoration: none;
+  height: 15px;
+  width: auto;
+  color: white
+}
+.byBen{
+  height: 15px;
+  width: auto;
+  color: white;
+}
+.joinPlus{
+  background-color: gray;
+  height: 75px;
+  width: 65%;
+  float: left;
+}
+.slatePlus{
+  background: #6a0432;
+  height: 75px;
+  width: 35%;
+  border: 2px solid black;
+  float: left;
+}
+.mawife{
+  text-decoration: none;
+  height: 15px;
+  width: auto;
+  color: black;
+}
+.textFix{
+  text-decoration: none;
+}
+.slateSize{
+  height: 8px;
+  width: auto;
+  color: white;
+}
+.supportYes{
+  height: auto;
+  width: auto;
+  color: white;
+}
+.otherHalf{
+  height: 700px;
+  width: 30%;
+  border: 2px solid black;
+  float: left;
+}
+header{
+  background-color: #6a0432;
+  height: 75px;
+  width: 100%;
+  float: left;
+}
+.slateLogo{
+  font-size: 64px;
+  height: auto;
+  width: auto;
+  color: white;
+  display: block;
+  float: left;
+  margin-top: 3px;
+}
+.menuIcon{
+  height: 31px;
+  width: auto;
+  float: left;
+  margin-top: 23px;
+  margin-left: 42px;
+}
+.mostRecent{
+  background: black;
+  height: 50px;
+  width: 100%;
+  float: left;
+}
+.mostRe{
+  height: auto;
+  width: auto;
+  color: white;
+  float: left;
+}
+.colorFix{
+  text-decoration: none;
+  color: yellow;
+}
+.seeAll{
+  height: auto;
+  width: auto;
+  float: left;
+  margin-left: 115px;
+}
+.moreNews{
+  height: 569px;
+  width: 100%;
+  float: left;
+}
+.spanEdit{
+  height: auto;
+  width: auto;
+  color: gray;
+  float: left;
+  font-size: 11px;
+}
+ul > li{
+  list-style: none;
+}
+.fixLink{
+  text-decoration: none;
+  color: black;
+}
+.newsEdit{
+  text-decoration: none;
+  height: auto;
+  width: auto;
+  float: left;
+  font-size: 15px;
+  border-bottom: 1px solid gray;
+}
